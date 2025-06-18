@@ -3,6 +3,7 @@ from dash import dcc, html, Input, Output, dash_table
 import pandas as pd
 import plotly.express as px
 import sqlite3
+import os
 
 # Initialize Dash app
 app = dash.Dash(__name__)
@@ -10,7 +11,8 @@ app.title = "MLB Stats Dashboard"
 
 #-----Load data from SQLite database-----
 def load_data():
-    conn = sqlite3.connect("../db/mlb_data.db")
+    db_path = os.path.join(os.path.dirname(__file__), '..', 'db', 'mlb_data.db')
+    conn = sqlite3.connect(db_path)
     events = pd.read_sql_query("SELECT * FROM events_cleaned", conn)
     stats = pd.read_sql_query("SELECT * FROM statistics_cleaned", conn)
     conn.close()
