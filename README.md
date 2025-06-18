@@ -43,7 +43,7 @@ An interactive web dashboard for exploring Major League Baseball statistics and 
 ---
 
 ## Setup Instructions
-
+```
 ### 1. Clone the repository
 
 git clone https://github.com/Kgonlez/MLB-History-Capstone-Project.git
@@ -62,3 +62,4 @@ pip install -r requirements.txt
 
 python scripts/dashboard.py
 Then open your browser to http://127.0.0.1:8050
+```
