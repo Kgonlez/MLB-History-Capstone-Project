@@ -4,17 +4,41 @@ An interactive web dashboard for exploring Major League Baseball statistics and 
 
 ## Live Demo
 
-🔗 [View the Live Dashboard on Render](https://your-render-link.onrender.com)
+🔗 [View the Live Dashboard on Render](https://mlb-history-capstone-project.onrender.com)
 
 ---
 
+## 📸 Screenshot
+
+![Dashboard Screenshot](c:\Users\kelly\OneDrive\Pictures\Screenshots\dashboard_screenshot.png)
+
+---
 ## Features
 
-- Top 10 Home Run Hitters by Year
-- Team Home Run Totals (2015–2025)
-- Detailed Event Data by Team & Year
-- Smart filtering by year and team
+- **Top 2 Home Run Hitters by Year** 
+    Dynamic bar chart showing the top players for any selected year.
+
+- **Team Home Run Totals (2015–2025)**  
+  Grouped bar chart comparing total home runs per team over time.
+
+- **Event Detail Table**  
+  Filtered by year and team(s), this scrollable table shows detailed game events.
+
+- **Team & Year Filters**  
+  Interactive dropdowns allow users to explore stats by year and team(s).
+
 - Clean table views for long event descriptions
+
+---
+
+## Technologies Used
+
+- Python
+- Dash (Plotly)
+- Pandas
+- SQLite
+- Plotly Express
+- HTML/CSS (via Dash components)
 
 ---
 
