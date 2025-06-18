@@ -10,7 +10,7 @@ An interactive web dashboard for exploring Major League Baseball statistics and 
 
 ## 📸 Screenshot
 
-![Dashboard Screenshot](c:\Users\kelly\OneDrive\Pictures\Screenshots\dashboard_screenshot.png)
+![Dashboard Screenshot](dashboard_screenshot.png)
 
 ---
 ## Features
