@@ -1,0 +1,241 @@
+Statistic,Name,Team,stat_value,year,table_name
+Base on Balls,Jose Bautista,Toronto,110.0,2015,2015 American League Player Review
+Batting Average,Miguel Cabrera,Detroit,0.338,2015,2015 American League Player Review
+Doubles,Michael Brantley,Cleveland,45.0,2015,2015 American League Player Review
+Hits,Jose Altuve,Houston,200.0,2015,2015 American League Player Review
+Home Runs,Chris Davis,Baltimore,47.0,2015,2015 American League Player Review
+On Base Percentage,Miguel Cabrera,Detroit,0.44,2015,2015 American League Player Review
+RBI,Josh Donaldson,Toronto,123.0,2015,2015 American League Player Review
+Runs,Josh Donaldson,Toronto,122.0,2015,2015 American League Player Review
+Slugging Average,Mike Trout,Los Angeles,0.59,2015,2015 American League Player Review
+Stolen Bases,Jose Altuve,Houston,38.0,2015,2015 American League Player Review
+Total Bases,Josh Donaldson,Toronto,352.0,2015,2015 American League Player Review
+Triples,Eddie Rosario,Minnesota,15.0,2015,2015 American League Player Review
+Base on Balls,Mike Trout,Los Angeles,116.0,2016,2016 American League Player Review
+Batting Average,Jose Altuve,Houston,0.338,2016,2016 American League Player Review
+Doubles,David Ortiz,Boston,48.0,2016,2016 American League Player Review
+Hits,Jose Altuve,Houston,216.0,2016,2016 American League Player Review
+Home Runs,Mark Trumbo,Baltimore,47.0,2016,2016 American League Player Review
+On Base Percentage,Mike Trout,Los Angeles,0.441,2016,2016 American League Player Review
+RBI,Edwin Encarnacion,Toronto,127.0,2016,2016 American League Player Review
+Runs,Mike Trout,Los Angeles,123.0,2016,2016 American League Player Review
+Slugging Average,David Ortiz,Boston,0.62,2016,2016 American League Player Review
+Stolen Bases,Rajai Davis,Cleveland,43.0,2016,2016 American League Player Review
+Total Bases,Mookie Betts,Boston,359.0,2016,2016 American League Player Review
+Triples,Adam Eaton,Chicago,9.0,2016,2016 American League Player Review
+Base on Balls,Aaron Judge,New York Yankees,127.0,2017,2017 American League Player Review
+Batting Average,Jose Altuve,Houston Astros,0.346,2017,2017 American League Player Review
+Doubles,Jose Ramirez,Cleveland Indians,56.0,2017,2017 American League Player Review
+Hits,Jose Altuve,Houston Astros,204.0,2017,2017 American League Player Review
+Home Runs,Aaron Judge,New York Yankees,52.0,2017,2017 American League Player Review
+On Base Percentage,Mike Trout,Los Angeles Angels,0.442,2017,2017 American League Player Review
+RBI,Nelson Cruz,Seattle Mariners,119.0,2017,2017 American League Player Review
+Runs,Aaron Judge,New York Yankees,128.0,2017,2017 American League Player Review
+Slugging Average,Mike Trout,Los Angeles Angels,0.629,2017,2017 American League Player Review
+Stolen Bases,Whit Merrifield,Kansas City Royals,34.0,2017,2017 American League Player Review
+Total Bases,Jose Abreu,Chicago White Sox,343.0,2017,2017 American League Player Review
+Triples,Nick Castellanos,Detroit Tigers,10.0,2017,2017 American League Player Review
+Base on Balls,Mike Trout,Los Angeles Angels,122.0,2018,2018 American League Player Review
+Batting Average,Mookie Betts,Boston Red Sox,0.346,2018,2018 American League Player Review
+Doubles,Alex Bregman,Houston Astros,50.0,2018,2018 American League Player Review
+Hits,Whit Merrifield,Kansas City Royals,192.0,2018,2018 American League Player Review
+Home Runs,Khris Davis,Oakland Athletics,48.0,2018,2018 American League Player Review
+On Base Percentage,Mike Trout,Los Angeles Angels,0.46,2018,2018 American League Player Review
+RBI,J.D. Martinez,Boston Red Sox,130.0,2018,2018 American League Player Review
+Runs,Mookie Betts,Boston Red Sox,129.0,2018,2018 American League Player Review
+Slugging Average,Mookie Betts,Boston Red Sox,0.64,2018,2018 American League Player Review
+Stolen Bases,Whit Merrifield,Kansas City Royals,45.0,2018,2018 American League Player Review
+Total Bases,J.D. Martinez,Boston Red Sox,358.0,2018,2018 American League Player Review
+Triples,Yolmer Sanchez,Chicago White Sox,10.0,2018,2018 American League Player Review
+Base on Balls,Alex Bregman,Houston Astros,119.0,2019,2019 American League Player Review
+Batting Average,Tim Anderson,Chicago White Sox,0.335,2019,2019 American League Player Review
+Doubles,Rafael Devers,Boston Red Sox,54.0,2019,2019 American League Player Review
+Hits,Whit Merrifield,Kansas City Royals,206.0,2019,2019 American League Player Review
+Home Runs,Jorge Soler,Kansas City Royals,48.0,2019,2019 American League Player Review
+On Base Percentage,Mike Trout,Los Angeles Angels,0.438,2019,2019 American League Player Review
+RBI,Jose Abreu,Chicago White Sox,123.0,2019,2019 American League Player Review
+Runs,Mookie Betts,Boston Red Sox,135.0,2019,2019 American League Player Review
+Slugging Average,Mike Trout,Los Angeles Angels,0.645,2019,2019 American League Player Review
+Stolen Bases,Mallex Smith,Tampa Bay Rays,46.0,2019,2019 American League Player Review
+Total Bases,Rafael Devers,Boston Red Sox,359.0,2019,2019 American League Player Review
+Triples,Hunter Dozier,Kansas City Royals,10.0,2019,2019 American League Player Review
+Base on Balls,Carlos Santana,Cleveland Indians,47.0,2020,2020 American League Player Review
+Batting Average,DJ LeMahieu,New York Yankees,0.364,2020,2020 American League Player Review
+Doubles,Cesar Hernandez,Cleveland Indians,20.0,2020,2020 American League Player Review
+Hits,Jose Abreu,Chicago White Sox,76.0,2020,2020 American League Player Review
+Home Runs,Luke Voit,New York Yankees,22.0,2020,2020 American League Player Review
+On Base Percentage,DJ LeMahieu,New York Yankees,0.421,2020,2020 American League Player Review
+RBI,Jose Abreu,Chicago White Sox,60.0,2020,2020 American League Player Review
+Runs,Tim Anderson,Chicago White Sox,45.0,2020,2020 American League Player Review
+Slugging Average,Jose Abreu,Chicago White Sox,0.617,2020,2020 American League Player Review
+Stolen Bases,Adalberto Mondesi,Kansas City Royals,24.0,2020,2020 American League Player Review
+Total Bases,Jose Abreu,Chicago White Sox,148.0,2020,2020 American League Player Review
+Triples,Kyle Tucker,Houston Astros,6.0,2020,2020 American League Player Review
+Base on Balls,Joey Gallo,Texas Rangers,111.0,2021,2021 American League Player Review
+Batting Average,Yuli Gurriel,Houston Astros,0.319,2021,2021 American League Player Review
+Doubles,Jeimer Candelario,Detroit Tigers,42.0,2021,2021 American League Player Review
+Hits,Bo Bichette,Toronto Blue Jays,191.0,2021,2021 American League Player Review
+Home Runs,Vladimir Guerrero Jr.,Toronto Blue Jays,48.0,2021,2021 American League Player Review
+On Base Percentage,Vladimir Guerrero Jr.,Toronto Blue Jays,0.401,2021,2021 American League Player Review
+RBI,Salvador Perez,Kansas City Royals,121.0,2021,2021 American League Player Review
+Runs,Vladimir Guerrero Jr.,Toronto Blue Jays,123.0,2021,2021 American League Player Review
+Slugging Average,Vladimir Guerrero Jr.,Toronto Blue Jays,0.601,2021,2021 American League Player Review
+Stolen Bases,Whit Merrifield,Kansas City Royals,40.0,2021,2021 American League Player Review
+Total Bases,Vladimir Guerrero Jr.,Toronto Blue Jays,363.0,2021,2021 American League Player Review
+Triples,Shohei Ohtani,Los Angeles Angels,8.0,2021,2021 American League Player Review
+Base on Balls,Aaron Judge,New York Yankees,111.0,2022,2022 American League Player Review
+Batting Average,Luis Arraez,Minnesota Twins,0.316,2022,2022 American League Player Review
+Doubles,José Ramírez,Cleveland Guardians,44.0,2022,2022 American League Player Review
+Hits,Bo Bichette,Toronto Blue Jays,189.0,2022,2022 American League Player Review
+Home Runs,Aaron Judge,New York Yankees,62.0,2022,2022 American League Player Review
+On Base Percentage,Aaron Judge,New York Yankees,0.425,2022,2022 American League Player Review
+RBI,Aaron Judge,New York Yankees,131.0,2022,2022 American League Player Review
+Runs,Aaron Judge,New York Yankees,133.0,2022,2022 American League Player Review
+Slugging Average,Aaron Judge,New York Yankees,0.686,2022,2022 American League Player Review
+Stolen Bases,Jorge Mateo,Baltimore Orioles,35.0,2022,2022 American League Player Review
+Total Bases,Aaron Judge,New York Yankees,391.0,2022,2022 American League Player Review
+Triples,Amed Rosario,Cleveland Guardians,9.0,2022,2022 American League Player Review
+Base on Balls,J.P. Crawford,Seattle Mariners,94.0,2023,2023 American League Player Review
+Batting Average,Yandy Díaz,Tampa Bay Rays,0.33,2023,2023 American League Player Review
+Doubles,Corey Seager,Texas Rangers,42.0,2023,2023 American League Player Review
+Hits,Marcus Semien,Texas Rangers,185.0,2023,2023 American League Player Review
+Home Runs,Shohei Ohtani,Los Angeles Angels,44.0,2023,2023 American League Player Review
+On Base Percentage,Shohei Ohtani,Los Angeles Angels,0.412,2023,2023 American League Player Review
+RBI,Kyle Tucker,Houston Astros,112.0,2023,2023 American League Player Review
+Runs,Marcus Semien,Texas Rangers,122.0,2023,2023 American League Player Review
+Slugging Average,Shohei Ohtani,Los Angeles Angels,0.654,2023,2023 American League Player Review
+Stolen Bases,Esteury Ruiz,Oakland Athletics,67.0,2023,2023 American League Player Review
+Total Bases,Shohei Ohtani,Los Angeles Angels,325.0,2023,2023 American League Player Review
+Triples,Bobby Witt Jr.,Kansas City Royals,11.0,2023,2023 American League Player Review
+Base on Balls,Aaron Judge,New York,133.0,2024,2024 American League Player Review
+Batting Average,Bobby Witt Jr.,Kansas City,0.332,2024,2024 American League Player Review
+Doubles,Jarren Duran,Boston,48.0,2024,2024 American League Player Review
+Hits,Bobby Witt Jr.,Kansas City,211.0,2024,2024 American League Player Review
+Home Runs,Aaron Judge,New York,58.0,2024,2024 American League Player Review
+On Base Percentage,Aaron Judge,New York,0.458,2024,2024 American League Player Review
+RBI,Aaron Judge,New York,144.0,2024,2024 American League Player Review
+Runs,Juan Soto,New York,128.0,2024,2024 American League Player Review
+Slugging Average,Aaron Judge,New York,0.701,2024,2024 American League Player Review
+Stolen Bases,Jose Caballero,Tampa Bay,44.0,2024,2024 American League Player Review
+Total Bases,Aaron Judge,New York,392.0,2024,2024 American League Player Review
+Triples,Jarren Duran,Boston,14.0,2024,2024 American League Player Review
+Base on Balls,Joey Votto,Cincinnati,143.0,2015,2015 National League Player Review
+Batting Average,Dee Gordon,Miami,0.333,2015,2015 National League Player Review
+Doubles,Matt Carpenter,St. Louis,44.0,2015,2015 National League Player Review
+Hits,Dee Gordon,Miami,205.0,2015,2015 National League Player Review
+Home Runs,Nolan Arenado,Colorado,42.0,2015,2015 National League Player Review
+On Base Percentage,Bryce Harper,Washington,0.46,2015,2015 National League Player Review
+RBI,Nolan Arenado,Colorado,130.0,2015,2015 National League Player Review
+Runs,Bryce Harper,Washington,118.0,2015,2015 National League Player Review
+Slugging Average,Bryce Harper,Washington,0.649,2015,2015 National League Player Review
+Stolen Bases,Dee Gordon,Miami,58.0,2015,2015 National League Player Review
+Total Bases,Nolan Arenado,Colorado,354.0,2015,2015 National League Player Review
+Triples,David Peralta,Arizona,10.0,2015,2015 National League Player Review
+Base on Balls,Paul Goldschmidt,Arizona,110.0,2016,2016 National League Player Review
+Batting Average,DJ LeMahieu,Colorado,0.348,2016,2016 National League Player Review
+Doubles,Daniel Murphy,Washington,47.0,2016,2016 National League Player Review
+Hits,Jean Segura,Arizona,203.0,2016,2016 National League Player Review
+Home Runs,Nolan Arenado,Colorado,41.0,2016,2016 National League Player Review
+On Base Percentage,Joey Votto,Cincinnati,0.434,2016,2016 National League Player Review
+RBI,Nolan Arenado,Colorado,133.0,2016,2016 National League Player Review
+Runs,Kris Bryant,Chicago,121.0,2016,2016 National League Player Review
+Slugging Average,Daniel Murphy,Washington,0.595,2016,2016 National League Player Review
+Stolen Bases,Jonathan Villar,Milwaukee,62.0,2016,2016 National League Player Review
+Total Bases,Nolan Arenado,Colorado,352.0,2016,2016 National League Player Review
+Triples,Brandon Crawford,San Francisco,11.0,2016,2016 National League Player Review
+Base on Balls,Joey Votto,Cincinnati Reds,134.0,2017,2017 National League Player Review
+Batting Average,Charlie Blackmon,Colorado Rockies,0.331,2017,2017 National League Player Review
+Doubles,Nolan Arenado,Colorado Rockies,43.0,2017,2017 National League Player Review
+Hits,Charlie Blackmon,Colorado Rockies,213.0,2017,2017 National League Player Review
+Home Runs,Giancarlo Stanton,Miami Marlins,59.0,2017,2017 National League Player Review
+On Base Percentage,Joey Votto,Cincinnati Reds,0.454,2017,2017 National League Player Review
+RBI,Giancarlo Stanton,Miami Marlins,132.0,2017,2017 National League Player Review
+Runs,Charlie Blackmon,Colorado Rockies,137.0,2017,2017 National League Player Review
+Slugging Average,Giancarlo Stanton,Miami Marlins,0.631,2017,2017 National League Player Review
+Stolen Bases,Dee Gordon,Miami Marlins,60.0,2017,2017 National League Player Review
+Total Bases,Charlie Blackmon,Colorado Rockies,387.0,2017,2017 National League Player Review
+Triples,Charlie Blackmon,Colorado Rockies,14.0,2017,2017 National League Player Review
+Base on Balls,Bryce Harper,Washington Nationals,130.0,2018,2018 National League Player Review
+Batting Average,Christian Yelich,Milwaukee Brewers,0.326,2018,2018 National League Player Review
+Doubles,Freddie Freeman,Atlanta Braves,44.0,2018,2018 National League Player Review
+Hits,Freddie Freeman,Atlanta Braves,191.0,2018,2018 National League Player Review
+Home Runs,Nolan Arenado,Colorado Rockies,38.0,2018,2018 National League Player Review
+On Base Percentage,Joey Votto,Cincinnati Reds,0.417,2018,2018 National League Player Review
+RBI,Javier Baez,Chicago Cubs,111.0,2018,2018 National League Player Review
+Runs,Charlie Blackmon,Colorado Rockies,119.0,2018,2018 National League Player Review
+Slugging Average,Christian Yelich,Milwaukee Brewers,0.598,2018,2018 National League Player Review
+Stolen Bases,Trea Turner,Washington Nationals,43.0,2018,2018 National League Player Review
+Total Bases,Christian Yelich,Milwaukee Brewers,343.0,2018,2018 National League Player Review
+Triples,Ketel Marte,Arizona Diamondbacks,12.0,2018,2018 National League Player Review
+Base on Balls,Rhys Hoskins,Philadelphia Phillies,116.0,2019,2019 National League Player Review
+Batting Average,Christian Yelich,Milwaukee Brewers,0.329,2019,2019 National League Player Review
+Doubles,Anthony Rendon,Washington Nationals,44.0,2019,2019 National League Player Review
+Hits,Ozzie Albies,Atlanta Braves,189.0,2019,2019 National League Player Review
+Home Runs,Pete Alonso,New York Mets,53.0,2019,2019 National League Player Review
+On Base Percentage,Christian Yelich,Milwaukee Brewers,0.429,2019,2019 National League Player Review
+RBI,Anthony Rendon,Washington Nationals,126.0,2019,2019 National League Player Review
+Runs,Ronald Acuna Jr.,Atlanta Braves,127.0,2019,2019 National League Player Review
+Slugging Average,Christian Yelich,Milwaukee Brewers,0.671,2019,2019 National League Player Review
+Stolen Bases,Ronald Acuna Jr.,Atlanta Braves,37.0,2019,2019 National League Player Review
+Total Bases,Cody Bellinger,Los Angeles Dodgers,351.0,2019,2019 National League Player Review
+Triples,Eduardo Escobar,Arizona Diamondbacks,10.0,2019,2019 National League Player Review
+Base on Balls,Bryce Harper,Philadelphia Phillies,49.0,2020,2020 National League Player Review
+Batting Average,Juan Soto,Washington Nationals,0.351,2020,2020 National League Player Review
+Doubles,Freddie Freeman,Atlanta Braves,23.0,2020,2020 National League Player Review
+Hits,Trea Turner,Washington Nationals,78.0,2020,2020 National League Player Review
+Home Runs,Marcell Ozuna,Atlanta Braves,18.0,2020,2020 National League Player Review
+On Base Percentage,Juan Soto,Washington Nationals,0.49,2020,2020 National League Player Review
+RBI,Marcell Ozuna,Atlanta Braves,56.0,2020,2020 National League Player Review
+Runs,Freddie Freeman,Atlanta Braves,51.0,2020,2020 National League Player Review
+Slugging Average,Juan Soto,Washington Nationals,0.695,2020,2020 National League Player Review
+Stolen Bases,Trevor Story,Colorado Rockies,15.0,2020,2020 National League Player Review
+Total Bases,Marcell Ozuna,Atlanta Braves,145.0,2020,2020 National League Player Review
+Triples,Trevor Story,Colorado Rockies,4.0,2020,2020 National League Player Review
+Base on Balls,Juan Soto,Washington Nationals,145.0,2021,2021 National League Player Review
+Batting Average,Trea Turner,Washington Nationals,0.328,2021,2021 National League Player Review
+Doubles,Bryce Harper,Philadelphia Phillies,42.0,2021,2021 National League Player Review
+Hits,Trea Turner,Washington Nationals,195.0,2021,2021 National League Player Review
+Home Runs,Fernando Tatis Jr.,San Diego Padres,42.0,2021,2021 National League Player Review
+On Base Percentage,Juan Soto,Washington Nationals,0.465,2021,2021 National League Player Review
+RBI,Adam Duvall,Miami Marlins,113.0,2021,2021 National League Player Review
+Runs,Freddie Freeman,Atlanta Braves,120.0,2021,2021 National League Player Review
+Slugging Average,Bryce Harper,Philadelphia Phillies,0.615,2021,2021 National League Player Review
+Stolen Bases,Trea Turner,Washington Nationals,32.0,2021,2021 National League Player Review
+Total Bases,Trea Turner,Washington Nationals,319.0,2021,2021 National League Player Review
+Triples,David Peralta,Arizona Diamondbacks,8.0,2021,2021 National League Player Review
+Base on Balls,Juan Soto,Washington Nationals,135.0,2022,2022 National League Player Review
+Batting Average,Jeff McNeil,New York Mets,0.326,2022,2022 National League Player Review
+Doubles,Freddie Freeman,Los Angeles Dodgers,44.0,2022,2022 National League Player Review
+Hits,Freddie Freeman,Los Angeles Dodgers,11.0,2022,2022 National League Player Review
+Home Runs,Kyle Schwarber,Philadelphia Phillies,46.0,2022,2022 National League Player Review
+On Base Percentage,Freddie Freeman,Los Angeles Dodgers,0.407,2022,2022 National League Player Review
+RBI,Pete Alonso,New York Mets,131.0,2022,2022 National League Player Review
+Runs,Mookie Betts,Los Angeles Dodgers,117.0,2022,2022 National League Player Review
+Slugging Average,Paul Goldschmidt,St. Louis Cardinals,0.578,2022,2022 National League Player Review
+Stolen Bases,Jon Berti,Miami Marlins,41.0,2022,2022 National League Player Review
+Total Bases,Austin Riley,Atlanta Braves,325.0,2022,2022 National League Player Review
+Triples,Gavin Lux,Los Angeles Dodgers,7.0,2022,2022 National League Player Review
+Base on Balls,Juan Soto,San Diego Padres,132.0,2023,2023 National League Player Review
+Batting Average,Luis Arraez,Miami Marlins,0.354,2023,2023 National League Player Review
+Doubles,Freddie Freeman,Los Angeles Dodgers,59.0,2023,2023 National League Player Review
+Hits,Ronald Acuña Jr.,Atlanta Braves,217.0,2023,2023 National League Player Review
+Home Runs,Matt Olson,Atlanta Braves,54.0,2023,2023 National League Player Review
+On Base Percentage,Ronald Acuña Jr.,Atlanta Braves,0.416,2023,2023 National League Player Review
+RBI,Matt Olson,Atlanta Braves,139.0,2023,2023 National League Player Review
+Runs,Ronald Acuña Jr.,Atlanta Braves,149.0,2023,2023 National League Player Review
+Slugging Average,Matt Olson,Atlanta Braves,0.604,2023,2023 National League Player Review
+Stolen Bases,Ronald Acuña Jr.,Atlanta Braves,73.0,2023,2023 National League Player Review
+Total Bases,Ronald Acuña Jr.,Atlanta Braves,383.0,2023,2023 National League Player Review
+Triples,Corbin Carroll,Arizona Diamondbacks,10.0,2023,2023 National League Player Review
+Base on Balls,Kyle Schwarber,Philadelphia,105.0,2024,2024 National League Player Review
+Batting Average,Luis Arraez,Miami,0.314,2024,2024 National League Player Review
+Doubles,Ezequiel Tovar,Colorado,45.0,2024,2024 National League Player Review
+Hits,Luis Arraez,Miami,200.0,2024,2024 National League Player Review
+Home Runs,Shohei Ohtani,Los Angeles,54.0,2024,2024 National League Player Review
+On Base Percentage,Shohei Ohtani,Los Angeles,0.39,2024,2024 National League Player Review
+RBI,Shohei Ohtani,Los Angeles,130.0,2024,2024 National League Player Review
+Runs,Shohei Ohtani,Los Angeles,134.0,2024,2024 National League Player Review
+Slugging Average,Shohei Ohtani,Los Angeles,0.646,2024,2024 National League Player Review
+Stolen Bases,Elly De La Cruz,Cincinnati,67.0,2024,2024 National League Player Review
+Total Bases,Shohei Ohtani,Los Angeles,411.0,2024,2024 National League Player Review
+Triples,Corbin Carroll,Arizona,14.0,2024,2024 National League Player Review
