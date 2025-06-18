@@ -104,6 +104,7 @@ def update_team_home_runs(_):
         'Detroit Tigers': 'Detroit',
         'Baltimore Orioles': 'Baltimore'
     }
+    df = df.copy()
     df['Team'] = df['Team'].replace(team_map)
 
     # Group by year and team
@@ -157,4 +158,5 @@ def update_event_table(year, teams):
 
 # Run server
 if __name__ == '__main__':
-    app.run(debug=True)
+    port = int(os.environ.get('PORT', 8050))
+    app.run_server(host='0.0.0.0', port=port)
